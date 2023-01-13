@@ -1,0 +1,4 @@
+USE ShitChat;
+
+DROP TABLE IF EXISTS Messages;
+DROP TABLE IF EXISTS Users;
